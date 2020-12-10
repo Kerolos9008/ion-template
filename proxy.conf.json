@@ -1,0 +1,11 @@
+{
+    "/eCareModules-SPOC": {
+        "target": "http://10.195.5.144:8889",
+        "secure": false
+    },
+    "/eCareModules-Login" : {
+        "target": "http://10.195.5.144:8889",
+        "secure": false
+    }
+
+}
